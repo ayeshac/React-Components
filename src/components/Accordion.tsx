@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { AccordionItem } from "../types";
+import { AccordionItem } from "../types/accordion";
 import AccordionItemUI from "./AccordionItem";
 import './Accordion.css'
 
